@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/chenzhijie/go-web3"
+	"github.com/dojimanetwork/go-web3"
 	"github.com/ethereum/go-ethereum/common"
 )
 
